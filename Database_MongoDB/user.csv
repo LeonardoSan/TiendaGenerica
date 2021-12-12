@@ -1,0 +1,7 @@
+_class,_id,email,identityDocument,name,nick,password,roles
+com.shop.models.User,619c630d2ef063124345c5c7,jdsalasc@unal.edu.co,4028213,jdsalasca,AdminPrincipal,$2a$10$CqO7TiogzYC99hCxNPPv2u.ntUJ6zvPOSswyrj8qy6/Lde8lehCmW,"[""ROLE_USER""]"
+com.shop.models.User,61a93407e69d1b5b652814a7,pruebaUsuario@gmail.com,555555,pruebaUsuario,pruebaUsuario,pruebaUsuario,"[""ROLE_USER""]"
+com.shop.models.User,61a935b8e69d1b5b652814ab,pruebaUsuario2@gmail.com,555555,pruebaUsuario2,pruebaUsuario2,$2a$10$ZETuyZbMIeEYnyklDDLRPu8/50OEhZdiHVO7dqtWtDX6Z2Ekww5eq,"[""ROLE_USER""]"
+com.shop.models.User,,adminprincipal@tiendaonline.com,5239494,Administrador Inicial,admininicial,$2a$10$Y/xy12C91mszD/rc1z2NNufDoIAsVxsYaNDSY9/.wSuNc9oRiiHe2,"[""ROLE_USER""]"
+com.shop.models.User,61afd4ddf84a5d46bf9651ee,sincorreo@sincorreo.com,123321,sincorreo,sincorreo,$2a$10$gR8NOjYL.m/mQ.MceegbMOVvls4Ulo8qp4AeiN14/TqhYkfyMBLFS,"[""ROLE_USER""]"
+com.shop.models.User,61afd7b4f84a5d46bf9651ef,sincorreoPrueba2@sincorreo.com,1233332,nuevo Modificado,admin2,$2a$10$B3UwH6EEgruhbPN8zQhq/e1WN6C3aBb4Uhu5Hgy55NLzJNIyoExYG,"[""ROLE_USER""]"

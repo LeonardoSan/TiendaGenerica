@@ -1,0 +1,5 @@
+_class,_id,address,city._id,city.name,documentType._id,documentType.type,documentnumber,email,name,phonenumber
+com.shop.models.Client,619d4027765a084cf83ca113,calle42a#8a-24,619d107d8c9cf368d31ff265,Bogotá,619cfe6127a017295827d84e,Cedula de ciudadania,1049650019,jdsalasc@unal.edu.co,PEDRO PASCACIO,3108539630
+com.shop.models.Client,61a947335860ed6accdc8222,calle,,,,,00000,sincorreo@sincorreo.com,prueba,1231
+com.shop.models.Client,61abab803fdc9924d4e601b4,transversal 22 # 5 -25,,,,,7623839,sandra@outlook.com,Sandra Rodriguez Mod,3142364723
+com.shop.models.Client,61abf8673fdc9924d4e601b9,Cra 5 # 7 - 28,,,,,353426,carlostorres@gmail.com,Carlos Torres Diaz,3145263734

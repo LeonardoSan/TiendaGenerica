@@ -1,0 +1,10 @@
+_class,_id,address,city,name,nit,phoneNumber
+com.shop.models.Supplier,619d525d7af2f50d26b4b8b8,Calle 13 # 5 - 22,Bogota,martinez.SAS,10492123,3106542321
+com.shop.models.Supplier,61abc0253fdc9924d4e601b6,Calle 19 # 2 - 21,Cali,exportaciones.LTDA 2,2255,3154323758
+com.shop.models.Supplier,61b28d664101ed5516ee10ae,Calle23,Cali,Pedro martinez,8095212,3126547212
+com.shop.models.Supplier,61b2abf84101ed5516ee10b6,Calle23,Cali,Pedro martinez,8095212,3126547212
+com.shop.models.Supplier,61b2ad4230f8041ed208bdf7,nueva,Ninguna,Nuevo,1,1234
+com.shop.models.Supplier,61b2b02e9f7bd9248dbc887c,Calle,Bogota,El q tenga tienda q la atienda,2,12344
+com.shop.models.Supplier,61b2b1779f7bd9248dbc887e,Calle,Bogota,Otro,3,12431
+com.shop.models.Supplier,61b2b1889f7bd9248dbc887f,Calle,Bogota,Mas,4,4444
+com.shop.models.Supplier,61b2b1a39f7bd9248dbc8880,Call,Bogota,mas  x menos,5,21441312

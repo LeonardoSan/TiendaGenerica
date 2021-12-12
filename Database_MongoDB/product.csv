@@ -1,0 +1,21 @@
+_class,_id,iva_item,nitSupplier,pricePurchase,priceToBuy,productCode,productName
+com.shop.models.Product,61b393f7a1c9093fcd45bbf3,19,2255,22000,35000,22,Aguacate
+com.shop.models.Product,61b54526aa373413f2388a97,19,2255,25000,30000,24,Mandarinas
+com.shop.models.Product,61b545acaa373413f2388a98,19,1,25505,30351,1,Melocotones
+com.shop.models.Product,61b545acaa373413f2388a99,19,3,18108,21549,2,Manzanas
+com.shop.models.Product,61b545adaa373413f2388a9a,19,4,29681,35320,3,Platanos
+com.shop.models.Product,61b545adaa373413f2388a9b,19,3,29788,35448,4,Lechuga
+com.shop.models.Product,61b545adaa373413f2388a9c,19,1,12739,15159,5,Tomates
+com.shop.models.Product,61b545adaa373413f2388a9d,19,1,21315,25365,6,Calabaza
+com.shop.models.Product,61b545adaa373413f2388a9e,19,2,19249,22906,7,Apio
+com.shop.models.Product,61b545adaa373413f2388a9f,19,2,10958,13040,8,Pepino
+com.shop.models.Product,61b545adaa373413f2388aa0,19,2,11046,13145,9,Champiniones
+com.shop.models.Product,61b545adaa373413f2388aa1,19,5,21150,25169,10,Leche
+com.shop.models.Product,61b545adaa373413f2388aa2,19,5,26571,31619,11,Queso
+com.shop.models.Product,61b545adaa373413f2388aa3,19,2,12445,14810,12,Huevos
+com.shop.models.Product,61b545adaa373413f2388aa4,19,1,14329,17052,13,Requeson
+com.shop.models.Product,61b545adaa373413f2388aa5,19,1,14856,17679,14,Crema agria
+com.shop.models.Product,61b545adaa373413f2388aa6,19,5,14941,17780,15,Yogur
+com.shop.models.Product,61b545adaa373413f2388aa7,19,5,29335,34909,16,Ternera
+com.shop.models.Product,61b545aeaa373413f2388aa8,19,5,11878,14135,17,Salmon salvaje
+com.shop.models.Product,61b545aeaa373413f2388aa9,19,1,29951,35642,18,Patas de cangrejo
